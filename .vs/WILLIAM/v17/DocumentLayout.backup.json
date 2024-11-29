@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevin\\WILLIAM\\",
+  "WorkspaceRootPath": "C:\\PORTFOLIO\\WILLIAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|c:\\users\\kevin\\william\\assets\\scripts\\move\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|c:\\portfolio\\william\\assets\\scripts\\move\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\Users\\kevin\\WILLIAM\\assets\\scripts\\move\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\Users\\kevin\\WILLIAM\\assets\\scripts\\move\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\Users\\kevin\\WILLIAM\\assets\\scripts\\move\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\move\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\playerstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\Users\\kevin\\WILLIAM\\assets\\scripts\\move\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\move\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\walkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\move\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\move\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\Users\\kevin\\WILLIAM\\assets\\scripts\\move\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|C:\\PORTFOLIO\\WILLIAM\\assets\\scripts\\move\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{825168D4-7395-6762-D4B6-3804D8CA0D53}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\move\\basestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:55:18.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "StateMachine.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\StateMachine.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\StateMachine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\StateMachine.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\StateMachine.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\StateMachine.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\StateMachine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlayerStateMachine.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\PlayerStateMachine.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\PlayerStateMachine.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\PlayerStateMachine.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\PlayerStateMachine.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\PlayerStateMachine.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\PlayerStateMachine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BaseState.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\BaseState.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\BaseState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\BaseState.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\BaseState.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\BaseState.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\BaseState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,11 +91,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IdleState.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\IdleState.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\IdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\IdleState.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\IdleState.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\IdleState.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\IdleState.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwCQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,25 +103,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WalkState.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\WalkState.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\WalkState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\WalkState.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\WalkState.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\WalkState.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\WalkState.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T17:39:53.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AttackState.cs",
-              "DocumentMoniker": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\AttackState.cs",
+              "DocumentMoniker": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\AttackState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Move\\AttackState.cs",
-              "ToolTip": "C:\\Users\\kevin\\WILLIAM\\Assets\\Scripts\\Move\\AttackState.cs",
+              "ToolTip": "C:\\PORTFOLIO\\WILLIAM\\Assets\\Scripts\\Move\\AttackState.cs",
               "RelativeToolTip": "Assets\\Scripts\\Move\\AttackState.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T18:07:14.718Z",
               "EditorCaption": ""

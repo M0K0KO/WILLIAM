@@ -61,6 +61,17 @@ public class AttackState : BaseState
 
     private void Attack()
     {
+        if (targetEnemy == null) return;
+
+        GameObject instantiatedBall = Object.Instantiate(projectilePrefab, player.transform.position, Quaternion.identity);
+
+        Ball ball = instantiatedBall.GetComponent<Ball>();
+        if (ball != null)
+        {
+            ball.playerPosition = new Vector3(player.transform.position.x, 0, player.transform.position.z);
+            ball.TargetPosition = targetEnemy.transform.position;
+        }
+
         Debug.Log($"{player.name}이 {targetEnemy.name}을 공격함");
     }
 
